@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+nav{
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    padding: 20px;
+}
+.nav a{
+    color: #023047;
+    text-decoration: none;
+}
+.button a{
+    color: white;
+    background-color: black;
+    padding: 12px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+.button a:hover{
+    background-color:blueviolet ;
+}
+#section1{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 550px;
+}
+.box1-1{
+    margin: 15px;
+}
+.box1-2{
+    background-image: url(/assets/create-and-share.jfif);
+    width:60%;
+    height: 550px;
+}
+h1{
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+    font-size: 45px;
+    line-height: 70px;
+}
+p{
+    margin-bottom: 20px;
+    color: #777f6b;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.box1-1 a{
+    color: #94d2bd;
+    letter-spacing: 2px;
+}
+.box1-1 a:hover{
+      text-decoration: none;
+}
+#section2{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 450px;
+}
+.box2-1{
+    margin: 15px;
+}
+.box2-2{
+    background-image: url(/assets/beautiful-stories.jfif);
+    width:60%;
+    height: 500px;
+}
+h1{
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+    font-size: 45px;
+    line-height: 70px;
+}
+p{
+    margin-bottom: 20px;
+    color: #777f6b;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.box2-1 a{
+    color: #94d2bd;
+    letter-spacing: 2px;
+}
+.box2-1 a:hover{
+      text-decoration: none;
+}
+#section3{
+    display: flex;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 450px;
+}
+.box3-1{
+    margin: 15px;
+}
+.box3-2{
+    background-image: url(/assets/desigmed-for-every-one.jfif);
+    width:60%;
+    height: 550px;
+}
+h1{
+    margin-bottom: 20px;
+    letter-spacing: 5px;
+    font-size: 45px;
+    line-height: 70px;
+}
+p{
+    margin-bottom: 20px;
+    color: #777f6b;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+.box3-1 a{
+    color: #94d2bd;
+    letter-spacing: 2px;
+}
+.box3-1 a:hover{
+      text-decoration: none;
+}
